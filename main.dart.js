@@ -68286,7 +68286,7 @@ $1(a){return new A.pO(null)},
 $S:431}
 A.o2.prototype={
 J(a){var s=null
-return A.QZ(s,this.c,B.O,s,720,s,s,1280)}}
+return A.QZ(s,this.c,B.O,s,1280,s,s,720)}}
 A.ox.prototype={
 J(a){var s=null
 return A.aea(A.acW(A.dH("Inicio de Sesi\xf3n",s,s,s,s,s,s)),new A.o2(new A.cZ(B.kF,A.C_(A.b([A.wG(this.c,A.oq(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Correo Electr\xf3nico",s,s,s,s,s,s,s,s,s,s,s,s,s),!1),A.wG(this.d,A.oq(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Contrase\xf1a",s,s,s,s,s,s,s,s,s,s,s,s,s),!0),A.ahi(A.dH("Iniciar Sesi\xf3n",s,s,s,s,s,s),new A.We(this,a)),A.aeo(A.dH("No tienes cuenta? Reg\xedstrate",s,s,s,s,s,s),new A.Wf(a),s)],t.E),B.bA,B.br,B.io),s),s))},
